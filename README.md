@@ -1,7 +1,7 @@
 # Lethal-Company-Save-Editor
 
 A Lethal Company save editor that is open source, built-in C#, .NET 8.0, using WPF. If you are looking for a download/release -> [click me](https://github.com/ArshansGithub/Lethal-Company-Save-Editor/releases/) 
-
+https://youtu.be/GG6tZs23O1Q
 ![LCSaveEditor_QxRnPOCVzw](https://github.com/ArshansGithub/Lethal-Company-Save-Editor/assets/111618520/2495d997-6c6d-4e08-b669-5a6aeaf93881)
 
 ## Table of Contents
