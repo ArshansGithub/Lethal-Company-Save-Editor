@@ -10,6 +10,7 @@ Click below to watch my YouTube video showcasing the tool👇<br><br>
 - [Goals](#goals)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Developers](#developers)
 
 ## Background
 This project was created because I was curious about how Lethal Company worked as a whole so I began taking apart piece by piece. Their save system intrigued me and looking at current Lethal Company save editors I saw a lack of user-friendly design and a lack of features within these save editors.
@@ -41,3 +42,8 @@ Contributions are welcome. You can contribute by reporting issues, suggesting im
     Create a pull request.
 
 Please ensure your code adheres to proper coding standards and includes relevant tests.
+
+## Developers
+
+If you are looking for IDs for the monsters, items, story logs, bestiaries, moons, and more... Look no further, I spent many hours scouring the source code and game objects to create the best enums containing all the IDs and their respective labeling.
+https://github.com/ArshansGithub/Lethal-Company-Save-Editor/blob/main/LCSaveEditor/LCEnums.cs
