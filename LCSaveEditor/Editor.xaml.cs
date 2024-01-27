@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using System.IO;
 using System.Security.Cryptography;
 using System.Text;
@@ -28,7 +28,7 @@ namespace LC_Save_Editor
         private string[] everyNameStats = ["StepsTaken", "ValueCollected", "DeathsTaken", "DaysSpent", "DaSeed", "DeadlineTime", "GroupCredits", "ProfitQuota", "QuotasPassed", "QuotasFulfilled", "GlobalTime", "FileGameVersion"];
         private string[] everyNameStatsSaveKey = ["Stats_StepsTaken", "Stats_ValueCollected", "Stats_Deaths", "Stats_DaysSpent", "RandomSeed", "DeadlineTime", "GroupCredits", "ProfitQuota", "QuotasPassed", "QuotaFulfilled", "GlobalTime", "FileGameVers"];
         private string[] everyNameCheckbox = ["OrangeSuit", "GreenSuit", "HazardSuit", "PajamaSuit", "CozyLights", "Teleporter", "Television", "Cupboard", "FileCabinet", "Toliet", "Shower", "LightSwitch", "RecordPlayer", "Table", "RomanticTable", "Bunkbed", "Terminal", "SignalTranslator", "LoudHorn", "InverseTeleporter", "JackoLantern", "WelcomeMat", "Goldfish", "PlushieMan",];
-        private string[] nonScrap = ["Binoculars", "BoomBox", "Flashlight", "Jetpack", "Key", "Lockpick", "HandheldMonitor", "ProFlashlight", "Shovel", "Flashbang", "ExtensionLadder", "TzpInhalant", "WalkieTalkie", "StunGun"];
+        private string[] nonScrap = ["Binoculars", "BoomBox", "Flashlight", "Jetpack", "Key", "Lockpick", "HandheldMonitor", "ProFlashlight", "Shovel", "Flashbang", "ExtensionLadder", "TzpInhalant", "WalkieTalkie", "StunGun", "SprayPaint", "ShotgunShell", "Shotgun"];
         private List<int> nonScrapIDs = new List<int>();
         private dynamic jsonified;
         private int lastId;
