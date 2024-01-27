@@ -13,7 +13,7 @@
         <Label Content="Lethal Company Save Editor" HorizontalAlignment="Center" Margin="0,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.061,-0.185" FontSize="36"/>
         <Label Content="Developed by Arshan" HorizontalAlignment="Center" Margin="0,92,0,0" VerticalAlignment="Top" FontSize="28"/>
         <Button Content="Find Saves" HorizontalAlignment="Center" Margin="0,263,0,61" Click="Button_Click" Width="454" FontSize="36" Background="#FF2BD04C"/>
-        <Label Content="Version: 1.0" HorizontalAlignment="Left" Margin="0,398,0,0" VerticalAlignment="Top" Width="118" FontSize="20"/>
+        <Label Content="Version: 1.1" HorizontalAlignment="Left" Margin="0,398,0,0" VerticalAlignment="Top" Width="118" FontSize="20"/>
         <RadioButton x:Name="automatic_radio" Content="Automatic" VerticalContentAlignment="Center" Margin="275,200,408,205" Checked="RadioButton_Checked_1" FontSize="18"/>
         <RadioButton x:Name="manual_radio" Content="Manual" VerticalContentAlignment="Center" Margin="425,200,275,0" FontSize="18" Checked="RadioButton_Checked" Height="29" VerticalAlignment="Top"/>
         <Label Content="How should I find your saves?" HorizontalAlignment="Center" Margin="0,157,0,0" VerticalAlignment="Top" FontSize="18"/>
