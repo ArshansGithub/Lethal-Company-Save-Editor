@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -100,7 +100,9 @@ namespace LC_Save_Editor
         Flask = 64,
         Tragedy = 65,
         Comedy = 66,
-        WhoopieCushion = 67
+        WhoopieCushion = 67,
+        KitchenKnife = 68,
+        EasterEgg = 69
     }
     public enum VanillaMoons
     {
@@ -109,10 +111,14 @@ namespace LC_Save_Editor
         Vow = 2,
         CompanyBuilding = 3,
         March = 4,
-        Rend = 5,
-        Dine = 6,
-        Offense = 7,
-        Titan = 8
+        Adamance = 5,
+        Rend = 6,
+        Dine = 7,
+        Offense = 8,
+        Titan = 9,
+        Artifice = 10,
+        Liquidation = 11
+
     }
     public enum VanillaEnemies
     {
