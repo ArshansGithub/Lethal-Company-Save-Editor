@@ -1,5 +1,8 @@
 # Lethal-Company-Save-Editor
 
+> [!WARNING]
+> I no longer play Lethal Company therefore I have no use for this save editor so it will be archivd. **The last known version that this editor worked for is V45**
+
 A Lethal Company save editor that is open source, built-in C#, .NET 8.0, using WPF. If you are looking for a download/release -> [click me](https://github.com/ArshansGithub/Lethal-Company-Save-Editor/releases/) <br><br>
 Click below to watch my YouTube video showcasing the tool👇<br><br>
 [![YouTube Video](https://img.youtube.com/vi/GG6tZs23O1Q/0.jpg)](https://www.youtube.com/watch?v=GG6tZs23O1Q)
